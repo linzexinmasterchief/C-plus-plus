@@ -1,5 +1,5 @@
 #include<iostream>
-//example of making forward declarations (function prototype)
+//example of making function prototype
 using namespace std;
 
 int add(int a, int b);
