@@ -1,7 +1,7 @@
 #include <iostream>
  
 using namespace std;
-//c++ scientific demonstration of double and float
+//c++ scientific presentation of double and float
 int main()
 {
     int x(5); // 5 means integer
