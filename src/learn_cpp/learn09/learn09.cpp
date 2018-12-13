@@ -1,5 +1,6 @@
 #include<iostream>
 
+//using void function
 using namespace std;
 void get_void(){
     //error
