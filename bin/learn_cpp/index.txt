@@ -1,0 +1,14 @@
+01 - basic iostream test
+02 - create a function
+03 - basic std IO
+04 - making function prototype
+05 - using multiple files to compile
+06 - using header files as forward declarations
+07 - different kind of macros
+08 - different ways of variable initialization
+09 - using void function
+10 - the usage of sizeof function
+11 - different types of integer definition
+12 - c++ scientific presentation of double and float
+13 - float precision and range
+14 - infinity and invalid
