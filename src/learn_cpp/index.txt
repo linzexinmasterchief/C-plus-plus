@@ -13,3 +13,4 @@
 13 - float precision and range
 14 - infinity and invalid
 15 - the output of boolean variables
+16 - fixed leangth output
