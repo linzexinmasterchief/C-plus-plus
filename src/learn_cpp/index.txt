@@ -12,3 +12,4 @@
 12 - c++ scientific presentation of double and float
 13 - float precision and range
 14 - infinity and invalid
+15 - the output of boolean variables
