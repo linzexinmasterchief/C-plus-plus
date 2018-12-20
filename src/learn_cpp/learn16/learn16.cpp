@@ -1,10 +1,12 @@
 #include<iostream>
 #include<iomanip>
+#include<windows.h>
 
 //fixed length output
 
 using namespace std;
 int main(){
+
     char* s;
 
     // s = "helloworld";
@@ -15,5 +17,6 @@ int main(){
     //align to left
     s = "hellohello";
     cout << "[" << setw(20) << left << setfill(' ') << s << "]" << endl;
+
     return 0;
 }
