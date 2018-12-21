@@ -25,6 +25,15 @@ int main(){
     cout << "square of " << N << " is " << sqr(N) << endl;
     cout << "the address of " << N << " is " << NP << endl;
 
+    int i;
+    const int size = i; //not determined during compile stage
+    const int size2 = 10;
+    constexpr int size3 = 5;
+
+    //int arr[size]; array size not determined error
+    int arr2[size2];
+    int arr3[size3];
+
     return 0;
 }
 
@@ -39,3 +48,4 @@ constexpr int sqr(int arg){
 }
 
 //Avoid using #define to create symbolic constants
+//constexpr objects are const and are initialized with values known during compilation
