@@ -15,3 +15,4 @@
 15 - the output of boolean variables
 16 - fixed length output
 17 - using constant and constexpr
+18 - logical operators
